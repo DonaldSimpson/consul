@@ -1,2 +1,2 @@
 # consul
-CentOS/RHEL Consul docker image
+CentOS/RHEL based Consul docker image
