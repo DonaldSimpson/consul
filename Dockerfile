@@ -1,9 +1,9 @@
+FROM centos:7
+# or RHEL...
+
 # Sourced and based on https://github.com/hashicorp/docker-consul/blob/master/0.X/Dockerfile
 # Consul - https://releases.hashicorp.com/consul/1.0.3/consul_1.0.3_linux_amd64.zip?_ga=2.241983494.522517661.1517849930-558920476.1516803903
 # Docs - https://www.consul.io/intro/index.html
-
-FROM centos:7
-# or RHEL...
 
 MAINTAINER DonaldSimpson@gmail.com
 
